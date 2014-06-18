@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.8.0_05-b13 (Oracle Corporation)
+Main-Class: jason.infra.centralised.RunCentralisedMAS
+Class-Path: lib/c4jason.jar lib/cartago.jar lib/eis-0.3.jar lib/eis-ja
+ son.jar lib/eismassim-2.1.jar lib/jason.jar lib/moise.jar
+

@@ -1,0 +1,11 @@
+[MarsEnv] new state RUNNING
+[coordinator] scheme teamSch created
+[coordinator] scheme bestZoneSch created
+[coordinator] scheme secondBestZoneSch created
+[coordinator] scheme attackSch created
+[coordinator] Starting coordinate goal
+[martian11] BYE!!
+[martian9] BYE!!
+[martian15] BYE!!
+[martian22] BYE!!
+[MarsEnv] new state KILLED

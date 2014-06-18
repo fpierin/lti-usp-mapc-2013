@@ -1,4 +1,4 @@
-lti-usp-mapc-2013
-=================
+lti-usp-team
+============
 
-Sistema Multi-Agente desenvolvido para melhoria do SMA do LTI apresentado no MAPC 2013
+LTI-USP Team for the Multi-Agent Programming Contest 2013 : http://multiagentcontest.org/2013
